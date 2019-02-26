@@ -4,8 +4,8 @@ Audio visualizer using Arduino Uno R3
 # How does it work?
 Here is a video of this project in action:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3iJQZHFu__0
+" target="_blank"><img src="http://img.youtube.com/vi/3iJQZHFu__0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # What have I used for this project?
